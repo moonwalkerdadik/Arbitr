@@ -1,0 +1,13 @@
+{
+  "name": "arbitration-platform-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Arbitration Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.5.2"
+  }
+}
